@@ -2,7 +2,7 @@
 
 ### Características
 
--   Sitio web responsivo de viajes.
+-   Sitio web responsivo de plantas.
 -   HTML CSS & Javascript.
 -   Smooth scrolling en cada sección.
 -   Animaciones al scrollear.
